@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Homepage"
 
 [params]
-  org = "Evaluation Center"
-  logoUrl =  "/img/logos/EC_logo.png"
-  title= "Evaluation Center"
-  subtitle= "at Northwestern University"
+  org = "Hostel Earphoria"
+  logoUrl =  "http://placekitten.com/300/300"
+  title= "Hostel Earphoria"
+  subtitle= "Chicago, Illinois"

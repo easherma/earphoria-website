@@ -1,6 +1,6 @@
 ---
 title: Our Team
-image: /img/group-eval-center.jpg
+image: http://placekitten.com/300/200
 people:
   - imageUrl: /img/resized/gregory.png
     name: 'Gregory Phillips, PhD'
@@ -71,4 +71,3 @@ people:
     role1: Data Assistant Associate
     text: |+
 ---
-
